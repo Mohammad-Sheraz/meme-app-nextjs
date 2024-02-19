@@ -31,3 +31,28 @@ body {
     text-wrap: balance;
   }
 }
+
+.memeDiv{
+  width: 30%;
+}
+
+.input1{
+  border: 2px solid black;
+  margin-bottom: 4px;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.input2{
+  border: 2px solid black;
+  margin-bottom: 4px;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.saveBtn{
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 50px;
+}
+
